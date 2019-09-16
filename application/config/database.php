@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '108.167.189.106',
-	'username' => 'santikon_pop',
-	'password' => '0927381976',
-	'database' => 'santikon_Porfolio',
+	'hostname' => 'xxx.xxx.xxx.xxx',
+	'username' => 'root',
+	'password' => '',
+	'database' => '',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
